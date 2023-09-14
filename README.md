@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rinkumc
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Web Development and Data Science
 - 💞️ I’m looking to collaborate on project related to Bioinformatics
 - 📫 How to reach me- rinkumchoudhary369@gmail.com
 
